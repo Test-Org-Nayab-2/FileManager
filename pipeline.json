@@ -1,1 +1,5 @@
-{"version":0.1,"globalEnvironmentVariables":["jk=idk"],"tasks":[]}
+{"version":0.1,"globalEnvironmentVariables":["jk=idk"],"tasks":[{
+      "task": "task1Live",
+      "dependsOn": [],
+      "location": { "x": 237.876410293218, "y": 69.41341547451039 }
+    }]}
